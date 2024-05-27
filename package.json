@@ -17,15 +17,15 @@
   "author": "Anvesh Kumar Arrabochu",
   "license": "MIT",
   "dependencies": {
-    "@mapbox/mapbox-gl-draw": "1.1.1",
-    "@turf/along": "^6.0.1",
-    "@turf/circle": "^6.0.1",
+    "@mapbox/mapbox-gl-draw": "^1.4.3",
+    "@turf/along": "^6.5.0",
+    "@turf/circle": "^6.5.0",
     "@turf/distance": "^6.0.1",
     "@turf/helpers": "^6.1.4",
-    "@turf/length": "^6.0.2"
+    "@turf/length": "^6.5.0"
   },
   "devDependencies": {
-    "jest": "^24.5.0"
+    "jest": "^29.7.0"
   },
   "repository": {
     "type": "git",
